@@ -1,0 +1,15 @@
+# Pastas
+/venv
+/+temporario
+# Pycache
+__pycache__/
+# Variáveis de ambiente
+.env
+# Arquivos Json
+/modulos/guild_ids.json
+
+/music/last_song.json
+/music/playlist.json
+
+/utils/config.json
+# *.json
