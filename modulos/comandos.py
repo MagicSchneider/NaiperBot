@@ -4,13 +4,6 @@ import nextcord
 from nextcord.ext import commands
 from utils.vars import channel_bv, channel_status, bot
 
-'''
-Linha 14 - Função de Testes.
-Linha 18 - Função de Avatar.
-Linha 28 - Função de Limpar Mensagens.
-Linha 37 - Função de Rolagem de dados.
-'''
-
 class comandos(commands.Cog):
     def __init__(self, bot):
         self.client = bot
